@@ -16,8 +16,8 @@
 #include <math.h>
 
 // ── WiFi ──────────────────────────────────────────────────
-const char* ssid     = "POCO F6";
-const char* password = "8928800230";
+const char* ssid     = "YOUR_WIFI_SSID_HERE";
+const char* password = "YOUR_WIFI_PASSWORD_HERE";
 
 // ── Hardware (DO NOT CHANGE — matches your wiring) ────────
 #define DHTPIN  4
